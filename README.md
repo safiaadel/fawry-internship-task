@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### Basic search
-![Basic search](screenshots/screenshot1_basic_search.png)
+![Basic search]("screenshots/screenshot1_basic_search.png.png")
 
 ### With line numbers
 ![With line numbers](screenshots/screenshot2_with_line_numbers.png)
